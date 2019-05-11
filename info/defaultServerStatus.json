@@ -1,0 +1,38 @@
+{
+  "embeds": true,
+  "prefix": "",
+
+  "reflex": {
+    "started": false,
+    "running": false,
+    "time": 0
+  },
+  "typerace": {
+    "started": false,
+    "running": false,
+    "time": 0,
+    "sentenceReal": false,
+    "sentenceFake": false
+  },
+  "scramble": {
+    "started": false,
+    "running": false,
+    "time": 0,
+    "scrambledWord": false,
+    "unscrambledWord": false
+  },
+  "random": {
+    "started": false,
+    "running": false,
+    "time": 0,
+    "target": false,
+    "firstHint": false,
+    "secondHint": false
+  },
+  "notify": {
+    "requested": false,
+    "requestUserID": "",
+    "mask": "",
+    "confirmation": false
+  }
+}

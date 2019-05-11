@@ -1,0 +1,39 @@
+{
+  "name": "vonodosh",
+  "version": "2.1.0",
+  "description": "A Discord bot made by some students or whatever.",
+  "main": "manager.js",
+  "dependencies": {
+    "bufferutil": "^3.0.0",
+    "discord.js": "^11.0.0",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "giphy-api": "^1.2.3",
+    "google-books-search": "^0.3.1",
+    "node-bitlyapi": "^0.4.0",
+    "node-opus": "^0.2.4",
+    "request": "^2.79.0",
+    "twitter": "^1.7.0",
+    "urban": "^0.3.1",
+    "youtube-node": "^1.3.0",
+    "color-namer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "manager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voctory/vonodosh.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Voctor, Nokko",
+  "private": "true",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/voctory/vonodosh/issues"
+  },
+  "homepage": "https://github.com/voctory/vonodosh#readme"
+}
